@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @soundy0115
-- 👀 I’m interested in learning programming language for now, but I am looking forward to study about clouding system.
+- 👀 I’m interested in learning programming language for now, but I am looking forward to study about Data Analytics.
 - 🌱 I’m currently learning java language.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Feel free to mail 'soundy0115@gmail.com'.
