@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soundy0115
-- 👀 I’m interested in learning programming language for now, but I am looking forward to study Data Analytics.
-- 🌱 I’m currently learning java language.
+- 👀 I’m interested Cloud Database.
+- 🌱 I’m currently majoring Software Engineering.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Feel free to mail 'soundy0115@gmail.com'.
 
