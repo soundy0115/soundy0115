@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @soundy0115
 - 👀 I’m interested Cloud Database.
 - 🌱 I’m currently majoring Software Engineering.
-- 💞️ I’m looking to collaborate on ...
 - 📫 Feel free to mail 'soundy0115@gmail.com'.
 
 <!---
