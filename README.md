@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @soundy0115
-- 👀 I’m interested in Cloud Database Management System.
-- 🌱 I’m currently majoring Software Engineering.
+- 🌱 I’m currently majoring in Software Engineering.
 - 📫 Feel free to mail 'soundy0115@gmail.com'.
 
 <!---
