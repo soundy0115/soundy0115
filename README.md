@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @soundy0115
+- 👋 Hi, I’m Juhan
 - 🌱 I’m currently majoring in Software Engineering and minoring in Human-Computer Interaction.
 - 💻 I'm working @ Samsung Semiconductor as a software engineer.
 - 📫 Feel free to mail 'soundy0115@gmail.com'.
