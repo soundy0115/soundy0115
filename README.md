@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @soundy0115
-- 🌱 I’m currently majoring in Software Engineering.
+- 🌱 I’m currently majoring in Software Engineering and minoring in Human-Computer Interaction.
+- 💻 I'm working @ Samsung Semiconductor as a software engineer.
 - 📫 Feel free to mail 'soundy0115@gmail.com'.
 
 <!---
